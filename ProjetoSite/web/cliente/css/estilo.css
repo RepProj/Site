@@ -1,0 +1,27 @@
+@import "font-awesome.css";
+
+img{
+    max-width: 100%;
+    vertical-align: middle;
+}
+.produtohome{
+    position:relative;
+    text-align: center;
+}
+
+.produtohome h2{
+    color: #68961A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.produtohome .banner{
+    width: 70%;
+    background: gray;
+}
+
+.logo{
+    max-height: 90px;
+    max-width: 100%;
+}
