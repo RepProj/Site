@@ -17,7 +17,6 @@
     <body>
         <%@include file="include/header.jsp"%>
 
-
         <div class="container">
             <div class="row">
                 <div class="col-sm-4">
